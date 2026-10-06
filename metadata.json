@@ -1,0 +1,6 @@
+{
+  "name": "InternStrike - AI-Powered Internship Command Center",
+  "description": "30 Days. Daily Strikes. One Internship. A dedicated internship command center for AI/ML engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
